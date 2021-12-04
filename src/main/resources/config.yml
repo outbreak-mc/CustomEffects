@@ -1,0 +1,8 @@
+mysql:
+  enabled: true
+  host: 'db.outbreak.space'
+  port: 3306
+  useSSL: true
+  username: 'outbreak_customeffects'
+  database: 'outbreak_customeffects'
+  password: ';Pk(d126>*/nK@&:'

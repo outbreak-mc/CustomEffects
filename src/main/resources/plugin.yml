@@ -1,0 +1,7 @@
+name: CustomEffects
+version: '${project.version}'
+main: space.outbreak.customeffects.CustomEffectsPlugin
+api-version: 1.16
+commands:
+  customeffects:
+    permission: "outbreak.customeffects.admin"
