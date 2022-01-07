@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>space.outbreak</groupId>
-    <artifactId>CustomEffects</artifactId>
-    <version>1.0</version>
+    <artifactId>CustomEffectsAPI</artifactId>
+    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>CustomEffects</name>
+    <name>CustomEffectsAPI</name>
 
     <properties>
         <java.version>1.8</java.version>

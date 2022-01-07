@@ -1,6 +1,6 @@
-name: CustomEffects
+name: CustomEffectsAPI
 version: '${project.version}'
-main: space.outbreak.customeffects.CustomEffectsPlugin
+main: space.outbreak.customeffects.CustomEffectsAPIPlugin
 api-version: 1.16
 commands:
   customeffects:

@@ -6,3 +6,5 @@ mysql:
   username: 'outbreak_customeffects'
   database: 'outbreak_customeffects'
   password: ';Pk(d126>*/nK@&:'
+
+server-name: "*"

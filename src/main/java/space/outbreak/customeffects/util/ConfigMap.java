@@ -1,6 +1,6 @@
-package space.outbreak.customeffects.util.config;
+package space.outbreak.customeffects.util;
 
-public enum ConfigMap implements ConfigKeyMap {
+public enum ConfigMap implements IConfigKeyMap {
     USE_MYSQL("mysql.enabled"),
     MYSQL_HOST("mysql.host"),
     MYSQL_PORT("mysql.port"),
@@ -8,6 +8,8 @@ public enum ConfigMap implements ConfigKeyMap {
     MYSQL_USERNAME("mysql.username"),
     MYSQL_PASSWORD("mysql.password"),
     MYSQL_USE_SSL("mysql.useSSL"),
+
+    SERVER_NAME("server-name")
     ;
 
     private String key;
